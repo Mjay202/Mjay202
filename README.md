@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Mujeeb Hammed
-- 👀 I’m interested in Full-stack software engineering tools and latest technologies, data analytics and system adminitration.
-- 🌱 I’m currently learning REACT JS, AngularJS, PHP, PYTHON, RUBY and SQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me through my email: therealmujeebhammed@gmail.ocom or hamkamolujide@gmail.com
+- 👋 Hi, I’m Mujeeb Hammed aka Jayxin.
+- 👀 I’m interested in Full-stack software engineering tools and latest technologies in data analytics and system adminitration.
+- 🌱 Senior level in REACT JS, Typescipt, Nodejs, AngularJS, PHP, PYTHON, RUBY and SQL.
+- 💞️ I’m looking to collaborate on any project with any of these stacks.
+- 📫 You can reach me through my email: therealmujeebhammed@gmail.com or hamkamolujide@gmail.com.
 
 <!---
 Mjay202/Mjay202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
