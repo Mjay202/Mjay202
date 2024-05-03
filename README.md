@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mujeeb Hammed aka Jayxin.
 - 👀 I’m interested in Full-stack software engineering tools and latest technologies in data analytics and system adminitration.
-- 🌱 Senior level in REACT JS, Typescipt, Nodejs, AngularJS, PHP, PYTHON, RUBY and SQL.
+- 🌱 Senior level in PHP, Laravel, REACT Js, Typescipt, Nodejs, VueJs, PYTHON, RUBY, MONGODB and SQL-POSTGRES & MYSQL .
 - 💞️ I’m looking to collaborate on any project with any of these stacks.
 - 📫 You can reach me through my email: therealmujeebhammed@gmail.com or hamkamolujide@gmail.com.
 
